@@ -1,0 +1,14 @@
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/bin/Debug/netcoreapp2.2/ParagasWebApp.API.deps.json
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/bin/Debug/netcoreapp2.2/ParagasWebApp.API.runtimeconfig.json
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/bin/Debug/netcoreapp2.2/ParagasWebApp.API.runtimeconfig.dev.json
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/bin/Debug/netcoreapp2.2/ParagasWebApp.API.dll
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/bin/Debug/netcoreapp2.2/ParagasWebApp.API.pdb
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.csprojAssemblyReference.cache
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.csproj.CoreCompileInputs.cache
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.RazorAssemblyInfo.cache
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.RazorAssemblyInfo.cs
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.AssemblyInfoInputs.cache
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.AssemblyInfo.cs
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.RazorTargetAssemblyInfo.cache
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.dll
+/Users/alanpaulparagas/ParagasWebApp/ParagasWebApp.API/obj/Debug/netcoreapp2.2/ParagasWebApp.API.pdb
